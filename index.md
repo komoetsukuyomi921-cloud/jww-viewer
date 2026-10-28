@@ -4,9 +4,9 @@ title: JWW Viewer サポート / Support
 
 # JWW Viewer サポート / Support
 
-JWW Viewer は、JWW / JWS / JWC 形式の図面を Mac・iPhone・iPad で表示し、Mac では簡単な修正（選択・削除・移動・文字の修正）ができるアプリです。完全オフラインで動作し、データを一切収集しません。
+JWW Viewer は、JWW / JWS / JWC 形式の図面を Mac・iPhone・iPad で表示し、簡単な修正（選択・削除・移動・文字の修正）もできるアプリです。完全オフラインで動作し、データを一切収集しません。
 
-JWW Viewer shows JWW, JWS and JWC drawings on Mac, iPhone and iPad, and on the Mac allows small fixes (select, delete, move, edit text). It works fully offline and collects no data.
+JWW Viewer shows JWW, JWS and JWC drawings on Mac, iPhone and iPad, and allows small fixes (select, delete, move, edit text). It works fully offline and collects no data.
 
 ## お問い合わせ / Contact
 
@@ -22,7 +22,7 @@ JWW Viewer shows JWW, JWS and JWC drawings on Mac, iPhone and iPad, and on the M
 ## よくある質問 / FAQ
 
 **iPhone / iPad で編集できますか？ / Can I edit on iPhone or iPad?**
-いいえ。iPhone / iPad 版は表示と測定のみで、編集は Mac 版で行えます。 / No. iPhone and iPad are for viewing and measuring; editing is on the Mac.
+はい。ツールバーで「選択」ツールにして図形をタップすると、削除・移動・文字の修正ができます。受信した直後のファイル（AirDrop など）は読み取り専用で、次にアプリを開いたときに「このiPhone / iPad内 › JWW Viewer」へ移され、編集できるようになります。 / Yes. Choose the Select (選択) tool in the toolbar and tap an item to delete, move or edit it. A file just received (AirDrop, "Open in") is read-only; the next time the app opens it is moved to On My iPhone/iPad › JWW Viewer and can be edited.
 
 **保存すると元の図面はどうなりますか？ / What happens to my drawing when I save?**
 変更した図形だけが書き換えられ、それ以外のデータはそのまま残ります。最初に上書きする前に元のファイルを自動でバックアップし、「ファイル」メニューの「バックアップを表示」から確認できます。 / Only the changed items are rewritten; everything else stays as it was. Before the first save the original is backed up automatically; see File ▸ Show Backups (バックアップを表示).
