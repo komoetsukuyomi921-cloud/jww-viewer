@@ -4,7 +4,7 @@ title: JWW Viewer プライバシーポリシー / Privacy Policy
 
 # JWW Viewer プライバシーポリシー / Privacy Policy
 
-最終更新日 / Last updated: 2026-10-28
+最終更新日 / Last updated: 2026-10-29
 
 <!-- Exported from the Claude Docs draft (rev 9) on 2026-10-28. This file is
 the source of truth from now on; publish it at the privacy policy URL. -->
@@ -38,14 +38,14 @@ Apple が App Store や OS の機能として収集する情報（購入履歴�
 図面ファイルは、利用者が開いたときに端末内でのみ読み込まれ、外部に送信されることはありません。
 
 - **表示・Quick Look**：図面の表示、Finder や「ファイル」アプリのプレビューとサムネイルは、端末内で生成されます。
-- **編集と保存**：編集した図面は、利用者が開いた元のファイルに保存されます。上書きの前に、元のファイルのバックアップが本アプリ専用の領域（Mac：サンドボックス内の「Backups」フォルダ、iPhone / iPad：「ファイル」アプリの「このiPhone / iPad内 › JWW Viewer › Backups」）に作成されます。バックアップは端末内にのみ存在し、Mac では「ファイル」メニューの「バックアップを表示」から、iPhone / iPad では「ファイル」アプリから確認・削除できます。
+- **編集と保存（Mac）**：編集した図面は、利用者が開いた元のファイルに保存されます。上書きの前に、元のファイルのバックアップが本アプリ専用の領域（サンドボックス内の「Backups」フォルダ）に作成されます。バックアップは端末内にのみ存在し、「ファイル」メニューの「バックアップを表示」から確認・削除できます。編集は Mac 版のみで、iPhone / iPad 版は図面を変更・保存しません。
 - **書き出し・印刷**：PDF / DXF の書き出しと印刷は、利用者が指定した場所とプリンタに対してのみ行われます。
 - iCloud Drive などのクラウド上のファイルを開いた場合、その同期は OS と各クラウドサービスが行い、本アプリは関与しません。
 
 Drawing files are read only on your device, when you open them, and are never sent anywhere.
 
 - **Viewing and Quick Look**: the drawing view and the previews and thumbnails in Finder and the Files app are generated on your device.
-- **Editing and saving**: an edited drawing is saved to the file you opened. Before the first save over a file, a backup of the original is created in the app's own storage (Mac: the "Backups" folder in its sandbox; iPhone/iPad: On My iPhone/iPad › JWW Viewer › Backups in the Files app). Backups stay on your device; view or delete them with "Show Backups" (バックアップを表示) in the File menu on Mac, or in the Files app on iPhone and iPad.
+- **Editing and saving (Mac)**: an edited drawing is saved to the file you opened. Before the first save over a file, a backup of the original is created in the app's own storage (the "Backups" folder in its sandbox). Backups stay on your device; view or delete them with "Show Backups" (バックアップを表示) in the File menu. Editing is on Mac only; the iPhone and iPad app never changes or saves drawings.
 - **Export and printing**: PDF and DXF export and printing go only to the location and printer you choose.
 - If you open a file stored in iCloud Drive or another cloud service, syncing is done by the operating system and that service, not by the app.
 
@@ -55,7 +55,7 @@ Drawing files are read only on your device, when you open them, and are never se
 
 | 権限 / Permission | 対象 / Platform | 用途 / Purpose |
 | --- | --- | --- |
-| 利用者が選択したファイルの読み書き / Read and write files you select | Mac, iPhone, iPad | 図面を開く・保存する、PDF / DXF を書き出す / Open and save drawings, export PDF and DXF |
+| 利用者が選択したファイルの読み書き / Read and write files you select | Mac | 図面を開く・保存する、PDF / DXF を書き出す / Open and save drawings, export PDF and DXF |
 | 印刷 / Printing | Mac, iPhone, iPad | 図面の印刷 / Print drawings |
 | 「ファイル」で選択したファイルの読み取り / Read files you open in Files | iPhone / iPad | 図面を表示する（編集・保存はしません） / Display drawings (no editing or saving) |
 
